@@ -39,6 +39,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   new Crate({
     server: '441011534609776641', // Guinea Pig Server
-    channel: '441011534609776644' // #general
+    channel: '756302118494797854' // #test-widjet-channel
   })
 </script>
